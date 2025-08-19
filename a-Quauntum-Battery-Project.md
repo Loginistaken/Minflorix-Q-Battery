@@ -153,7 +153,7 @@ Nature
 ACS Publications
 Physical Review Link Manager PMC
 
-C.  Minflorix 
+C.  Minflorix Q
 New stack (additions in bold)
 
 Encapsulation: TPU/fluoropolymer laminate with optical window ring (bands at 520–550 nm for NV pumping or at the microcavity resonance).
