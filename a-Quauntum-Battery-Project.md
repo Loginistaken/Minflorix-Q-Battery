@@ -215,5 +215,5 @@ Phys.org
 Time-crystal thermodynamics	Keep cavity design compatible; stage as R&D track, not required for product energy budget.	1–2 
 Innovation News Network
 
-Practical integration into wearables	Q-films are thin, sealed, optically addressed; no user contact,
+Practical Q-films are thin, sealed, optically addressed; no user contact,
 preserves bio-safety.	5–6 (mechanical/process)
