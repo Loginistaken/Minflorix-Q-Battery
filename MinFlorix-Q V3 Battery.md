@@ -73,7 +73,7 @@ Purpose of Advanced Layers:
 5. Diagnostics Test & Performance
 Diagnostics Evaluation
 
-    Charging Speed: 10x faster than conventional Li-ion (minutes vs. hours)
+    Charging Speed:  Hopes to be faster than competitors  (minutes vs. hours)
     Energy Density: Comparable or superior to traditional lithium batteries
     Safety: No free OxyF₂ gas, solid-state construction with multiple fail-safes
     Cycle Life: Thousands of charge/discharge cycles with minimal degradation
