@@ -1,9 +1,6 @@
-Copyright & Acknowledgments
+Notice: MinFlorix-Q V3 Battery
 
-MinFlorix-Q V3 Battery
-Concept & compilation: Ideas by Eric Lindau; merged with GPT-5 Thinking and GitHub Copilot.
-© 2025 Eric Lindau. All rights reserved.
-Portions of the background summary reference peer-reviewed research and are credited individually below.
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
 
 Foundational studies we build on (labs, who, where, what)
 
